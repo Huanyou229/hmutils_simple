@@ -1,0 +1,37 @@
+{
+  "name": "@huanyou/hmutils_simple",
+  "version": "1.0.0",
+  "description": "一个适用于鸿蒙操作系统应用开发的工具库，提供日志记录、路由、数据持久化和通用常量等基本工具。",
+  "main": "Index.ets",
+  "author": "huanyou",
+  "license": "Apache-2.0",
+  "keywords": [
+    "harmonyos",
+    "utility",
+    "logger",
+    "router",
+    "preference",
+    "navigation",
+    "persistence",
+    "arkts",
+    "typescript"
+  ],
+  "repository": "https://github.com/Huanyou229/hmutils_simple.git",
+  "homepage": "https://github.com/Huanyou229/hmutils_simple",
+  "bugs": {
+    "url": "https://github.com/Huanyou229/hmutils_simple/issues",
+    "email": "Huanyou229@outlook.com"
+  },
+  "engines": {
+    "harmonyos": ">=5.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "Index.ets",
+    "src/**/*",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ]
+}

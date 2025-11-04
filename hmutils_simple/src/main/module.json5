@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "hmutils_simple",
+    "type": "har",
+    "deviceTypes": [
+      "phone"
+    ]
+  }
+}
